@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "firebase": "^9.22.1",
+    "react-scripts": "^3.0.1"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "react-app-rewired": "^2.2.1"
+  }
+}
